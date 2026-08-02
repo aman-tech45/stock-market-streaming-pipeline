@@ -234,15 +234,6 @@ http://127.0.0.1:5000
 
 ---
 
-# 👨‍💻 Author
-
-**Aman Jha**
-
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 💻 GitHub: https://github.com/YOUR-GITHUB-USERNAME
-
----
-
 ## ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
